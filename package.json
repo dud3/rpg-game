@@ -1,0 +1,25 @@
+{
+  "name": "rpg-game",
+  "version": "0.0.1",
+  "description": "A simple rpg game.",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm install express --save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dud3/rpg-game.git"
+  },
+  "keywords": [
+    "rpg"
+  ],
+  "author": "dud3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dud3/rpg-game/issues"
+  },
+  "homepage": "https://github.com/dud3/rpg-game#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

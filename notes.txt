@@ -1,0 +1,6 @@
+// Debug env
+DEBUG=myapp:* npm start
+
+// For compression
+https://expressjs.com/en/advanced/best-practice-performance.html
+var compression = require('compression')
